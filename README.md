@@ -16,7 +16,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-heyller&show_icons=true&locale=en&layout=compact" alt="jean-heyller" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean-heyller&show_icons=true&locale=en" alt="jean-heyller" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean-heyller&show_icons=true&locale=en" alt="jean-heyller" />
+
 <h2> <b> ¿Quién soy? </b> </h2>
 Soy un Programador fullstack especializado en Back-end. <br>
 <h2> <b> Who I am? </b> </h2>
